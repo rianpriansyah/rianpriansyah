@@ -47,9 +47,7 @@ Technology moves fast, and I strive to move faster. As a **Life-long Learner**, 
 ---
 
 ### 📂 Featured JavaScript Projects
-* **[react-ecommerce-ui]** - Modern E-commerce interface built with React and Tailwind CSS.
-* **[nextjs-portfolio]** - Personal branding site with Server Side Rendering (SSR).
-* **[vuestore-server](https://github.com/rianpriansyah/vuestore-server)** - Scalable Node.js API for commerce applications.
+* **[Smart Parking INABA (SPIN)](https://github.com/SmartParkingINABA/SPIN)** - An innovative smart parking system developed collaboratively to optimize parking management.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rianpriansyah&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
