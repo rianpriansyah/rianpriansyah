@@ -1,26 +1,22 @@
 # Hello Everyone! I'm Rian Priansyah 👋
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=فَإِنَّ%20مَعَ%20الْعُسْرِ%20يُسْرًا%20إِنَّ%20مَعَ%20الْعُسْرِ%20يُسْرًا&author=QS.%20Al-Insyirah%3A%205-6" alt="Quote" />
-</p>
-
 ### 🛠 About Me
-I am a passionate **Fullstack Developer** focused on building web applications using the PHP and JavaScript ecosystem. I love turning complex problems into simple, beautiful, and intuitive designs.
+I am an enthusiastic **Frontend Developer** with a deep love for the **React & JavaScript Ecosystem**. I specialize in building responsive, high-performance web applications and I'm always excited to explore the latest web technologies.
 
-- 🔭 I’m currently working on **Laravel & Vue.js Projects**
-- 🌱 I’m currently learning **Advanced Microservices & Cloud Deployment**
-- 💬 Ask me about **Laravel, Vue, and API Integration**
+- 🔭 I’m currently focused on **React.js & Next.js Development**
+- 🌱 I’m currently mastering **TypeScript & State Management (Redux/Zustand)**
+- 💬 Ask me about **React, JavaScript, and Modern UI/UX Implementation**
 - 📫 How to reach me: **[rianpriansyaah](https://instagram.com/rianpriansyaah)**
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-| Frontend | Backend | Database & Tools |
+| Frontend | Backend & Runtime | Database & Tools |
 | :--- | :--- | :--- |
-| ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) |
 
 ---
 
@@ -37,10 +33,10 @@ I am a passionate **Fullstack Developer** focused on building web applications u
 
 ---
 
-### 📂 Featured Repositories
-* **[vue-3-blog](https://github.com/rianpriansyah/vue-3-blog)** - A modern blogging platform built with Vue 3.
-* **[midtrans-laravel](https://github.com/rianpriansyah/midtrans-laravel)** - Payment gateway integration for Laravel.
-* **[vuestore-server](https://github.com/rianpriansyah/vuestore-server)** - Robust backend API for E-commerce.
+### 📂 Featured JavaScript Projects
+* **[react-ecommerce-ui]** - Modern E-commerce interface built with React and Tailwind CSS.
+* **[nextjs-portfolio]** - Personal branding site with Server Side Rendering (SSR).
+* **[vuestore-server](https://github.com/rianpriansyah/vuestore-server)** - Scalable Node.js API for commerce applications.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rianpriansyah&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
