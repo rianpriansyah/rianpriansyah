@@ -1,8 +1,8 @@
-# Hello Everyone! I'm Rian Priansyah 👋
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" />
 </p>
+
+# Hello Everyone! I'm Rian Priansyah 👋
 
 ### 🛠 About Me
 I am an enthusiastic **Frontend Developer** with a deep love for the **React & JavaScript Ecosystem**. I specialize in building responsive, high-performance web applications and I'm always excited to explore the latest web technologies.
