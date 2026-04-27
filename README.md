@@ -1,12 +1,25 @@
 # Hello Everyone! I'm Rian Priansyah 👋
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" />
+</p>
+
 ### 🛠 About Me
 I am an enthusiastic **Frontend Developer** with a deep love for the **React & JavaScript Ecosystem**. I specialize in building responsive, high-performance web applications and I'm always excited to explore the latest web technologies.
 
 - 🔭 I’m currently focused on **React.js & Next.js Development**
 - 🌱 I’m currently mastering **TypeScript & State Management (Redux/Zustand)**
 - 💬 Ask me about **React, JavaScript, and Modern UI/UX Implementation**
-- 📫 How to reach me: **[rianpriansyaah](https://instagram.com/rianpriansyaah)**
+- 📫 Connect with me: **[LinkedIn](https://www.linkedin.com/in/rian-priansyah-367012264)** | **[Instagram](https://instagram.com/rianpriansyaah)**
+
+---
+
+### 📚 A Life-Long Learner
+Technology moves fast, and I strive to move faster. As a **Life-long Learner**, I believe that:
+* **Adaptability is Key:** I don't just learn a framework; I learn the core concepts to easily pivot between technologies.
+* **Problem Solving over Coding:** For me, code is just a tool to solve real-world problems effectively.
+* **Curiosity-Driven:** I spend my spare time exploring open-source projects, attending webinars, and reading technical blogs to stay ahead of the curve.
+* **Teaching to Learn:** I enjoy documenting my journey and sharing knowledge, as it's the best way to solidify my own understanding.
 
 ---
 
