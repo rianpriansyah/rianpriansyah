@@ -37,11 +37,11 @@ Technology moves fast, and I strive to move faster. As a **Life-long Learner**, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rianpriansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rian's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianpriansyah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianpriansyah&layout=compact&theme=theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianpriansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://git-streak-stats.vercel.app/?user=rianpriansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
