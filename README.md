@@ -33,19 +33,6 @@ Technology moves fast, and I strive to move faster. As a **Life-long Learner**, 
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianpriansyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rian's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianpriansyah&layout=compact&theme=theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://git-streak-stats.vercel.app/?user=rianpriansyah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📂 Featured JavaScript Projects
 * **[Smart Parking INABA (SPIN)](https://github.com/SmartParkingINABA/SPIN)** - An innovative smart parking system developed collaboratively to optimize parking management.
 
